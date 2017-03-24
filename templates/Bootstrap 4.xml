@@ -1,0 +1,7 @@
+<templateSet group="Bootstrap 4">
+  <template name="t." value="this.${1:}" description="this." toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
