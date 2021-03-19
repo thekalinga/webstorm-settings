@@ -6,5 +6,7 @@
     <browser id="53e2f627-b1a7-4dfa-bfa7-5b83cc034776" name="Opera" family="OPERA" active="false" />
     <browser id="b1b2ec2c-20bd-4ee2-89c4-616db004bcd4" name="Yandex" family="CHROME" path="yandex" active="false" />
     <browser id="16bf23d4-93e0-4ffc-bfd6-cb13575177b0" name="Internet Explorer" family="EXPLORER" active="false" />
+    <browser id="b2a9dca7-9d0b-4e1e-98a8-afb19c1328d2" name="Edge" family="EXPLORER" />
+    <browser id="0acdbb5b-3d12-4f87-aee5-d2356e9d9687" name="Brave" family="CHROME" path="/usr/bin/brave-browser-stable" />
   </component>
 </application>
