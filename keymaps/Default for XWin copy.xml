@@ -38,6 +38,9 @@
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="JavaScript.Debugger.ReloadInBrowser">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
   <action id="PerforceDirect.Edit" />
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
