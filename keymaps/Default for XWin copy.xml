@@ -29,6 +29,10 @@
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="shift ctrl period" />
   </action>
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
+    <keyboard-shortcut first-keystroke="shift back_quote" />
+  </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
@@ -50,6 +54,9 @@
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
+  <action id="SurroundWithEmmet">
+    <keyboard-shortcut first-keystroke="shift ctrl alt e" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
