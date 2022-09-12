@@ -1,4 +1,8 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -39,13 +43,19 @@
   <action id="ExternalSystem.CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
   <action id="JavaScript.Debugger.ReloadInBrowser">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
+  <action id="NextTab" />
   <action id="PerforceDirect.Edit" />
+  <action id="PreviousTab" />
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
